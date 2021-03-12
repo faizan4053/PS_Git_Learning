@@ -1,3 +1,5 @@
 adding file2.txt
 
+modifying file2.txt
+
 modified file2.txt by Sebin
